@@ -4,7 +4,7 @@ I'm a graduate student in Department of Mathematics and Statistics, IISER Kolkat
 [Course, Jan 2021] Commutative Algebra, Online \\
 [Workshop, May 2022] Intersection Theory, IIT Bombay \\
 [Talk] Department Colloquium \\
-[Workshop, Jul 2023] NCMW Cohen Macaulay Simplicial Complexes in Graph Theory, CMI 
+[Workshop, Jul 2023] Cohen Macaulay Simplicial Complexes in Graph Theory, CMI 
 
 
 ### Teaching Assistant
