@@ -14,6 +14,6 @@ Forsters Conjecture: [Slides](https://drive.google.com/file/d/1MbWmwXFLWiEifhhe9
 ### Teaching Assistant
 [AFS 2, 2022, IISER K] Rings and Modules\\
 [Autumn 2022, IISER K] Algebra 1(Group Theory)\\
-[Spring 2022, IISER K] Mathematical Methods 1\\
+[Spring 2022, IISER K] Mathematical Methods 1 [Tutorial](https://drive.google.com/drive/folders/1avP2oM5lM4Oatf9ptTJcg6-uBQvNO53c?usp=drive_link)\\
 [Autumn 2023, IISER K] Algebra 3(Galois Theory): [Tutorial 2](https://drive.google.com/file/d/1nSNkaIavsAHcaig6S3XALxJNp49S_VQv/view?usp=drive_link)\\
-[Spring 2023, IISER K] Algebra 2(Rings and Modules)
+[Spring 2023, IISER K] Algebra 2(Rings and Modules) 
