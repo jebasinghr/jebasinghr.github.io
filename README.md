@@ -7,7 +7,7 @@ Forsters Conjecture: [Slides](https://drive.google.com/file/d/1MbWmwXFLWiEifhhe9
 ### Activities
 [Course, Jan 2021] Commutative Algebra, Online \\
 [Workshop, May 2022] Intersection Theory, IIT Bombay \\
-[Talk] Department Colloquium \\
+[Talk] DMS In-house Symposium 2023, IISER K\\
 [Workshop, Jul 2023] Cohen Macaulay Simplicial Complexes in Graph Theory, CMI 
 
 
