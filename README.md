@@ -1,7 +1,7 @@
 I'm a graduate student in Department of Mathematics and Statistics, IISER Kolkata. My research area is projective modules and complete intersections. 
 ### Research
 ### Notes 
-Algebraic Topology 1: [Notes](https://drive.google.com/file/d/1MbWmwXFLWiEifhhe9zZ3gOO11OdNytWt/view?usp=drive_link)
+Algebraic Topology 1: [Notes](https://drive.google.com/file/d/1MbWmwXFLWiEifhhe9zZ3gOO11OdNytWt/view?usp=drive_link) \\
 Commutative Algebra: [Problems](https://drive.google.com/file/d/1GIkcKE-dkl3VFcWoTAgIXKCPPhWCBTxT/view?usp=drive_link)
 ### Activites
 [Course, Jan 2021] Commutative Algebra, Online \\
