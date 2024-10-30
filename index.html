@@ -16,8 +16,17 @@
         header {
             background: #f0f0f0; /* Light header color */
             color: #000; /* Dark text for contrast */
-            padding: 20px 0;
-            text-align: center;
+            padding: 20px;
+            position: relative; /* Set position to relative for absolute positioning of the image */
+            text-align: left; /* Align text to the left */
+        }
+        img {
+            max-width: 150px; /* Set a smaller max width for the image */
+            height: auto; /* Maintain aspect ratio */
+            position: absolute; /* Position the image absolutely */
+            top: 20px; /* Align image to the top of the header */
+            right: 20px; /* Align image to the right of the header */
+            border-radius: 10px; /* Optional: rounded corners for the image */
         }
         nav {
             margin: 20px 0;
@@ -40,13 +49,6 @@
         h2 {
             color: #007BFF; /* Section header color */
         }
-        img {
-            max-width: 100%; /* Make the image responsive */
-            height: auto; /* Maintain aspect ratio */
-            margin: 20px; /* Add some margin around the image */
-            float: right;
-            border-radius: 10px; /* Optional: rounded corners for the image */
-        }
     </style>
 </head>
 <body>
@@ -54,9 +56,8 @@
 <header>
     <h1>Jebasingh R</h1>
     <p>Graduate Student</p>
+    <img src="profilepic.jpg" alt="Profile Picture">
 </header>
-
-<img src="profilepic.jpg" alt="Profile Picture">
 
 <nav>
     <a href="#education">Education</a>
@@ -85,17 +86,5 @@
         <li>[Course, Jan 2021] Commutative Algebra, Online</li>
         <li>[Instructional school, May 2022] Intersection Theory, IIT Bombay</li>
         <li>[Talk] DMS In-house Symposium 2023, IISER Kolkata</li>
-        <li>[Workshop, Jul 2023] Cohen Macaulay Simplicial Complexes in Graph Theory, CMI</li>
-        <li>[Workshop, Dec 2023] Hilbert functions and local cohomology, IIT Bombay</li>
-        <li>[Workshop, Dec 2023] Hochschild Homology, IISER Kolkata</li>
-        <li>[Summer 2024, Park City, Utah] IAS/Park City Mathematics Institute on Motivic Homotopy Theory</li>
-    </ul>
-</section>
-
-<section id="teaching">
-    <h2>Teaching Experience</h2>
-    <p>[AFS 2, 2022, IISER K] Rings and Modules<br>
-       [Autumn 2022, IISER K] Algebra 1 (Group Theory)<br>
-       [Spring 2022, IISER K] Mathematical Methods 1: <a href="https://drive.google.com/drive/folders/1avP2oM5lM4Oatf9ptTJcg6-uBQvNO53c?usp=drive_link">Tutorials</a><br>
-       [Autumn 2023, IISER K] Algebra 3 (Galois Theory): <a href="htt
+        <li>[Wo
 
