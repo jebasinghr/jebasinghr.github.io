@@ -17,19 +17,21 @@
             background: #f0f0f0; /* Light header color */
             color: #000; /* Dark text for contrast */
             padding: 20px;
+            display: flex; /* Use flexbox for layout */
+            align-items: center; /* Center items vertically */
+            justify-content: space-between; /* Space between items */
+        }
+        .header-content {
             text-align: left; /* Align text to the left */
         }
-        .profile-pic {
-            text-align: right; /* Align image to the right */
-            padding: 10px 20px; /* Add padding for the image section */
-        }
         img {
-            max-width: 100px; /* Set a smaller max width for the image */
+            max-width: 120px; /* Set a reasonable max width for the image */
             height: auto; /* Maintain aspect ratio */
             border-radius: 10px; /* Optional: rounded corners for the image */
         }
         nav {
             margin: 20px 0;
+            text-align: center; /* Center nav links */
         }
         nav a {
             margin: 0 15px;
@@ -54,13 +56,12 @@
 <body>
 
 <header>
-    <h1>Jebasingh R</h1>
-    <p>Graduate Student</p>
-</header>
-
-<div class="profile-pic">
+    <div class="header-content">
+        <h1>Jebasingh R</h1>
+        <p>Graduate Student</p>
+    </div>
     <img src="profilepic.jpg" alt="Profile Picture">
-</div>
+</header>
 
 <nav>
     <a href="#education">Education</a>
